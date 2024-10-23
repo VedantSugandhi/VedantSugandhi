@@ -6,6 +6,7 @@
 🌱 I’m currently learning: React.<br>
 💬 Ask me about Java<br>
 😄 Pronouns: He/Him<br>
+⚡ Fun fact: I love Travelling!
 
 
 - 📫 How to reach me **vedantsugandhi95@gmail.com**
