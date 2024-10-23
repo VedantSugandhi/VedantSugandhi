@@ -8,9 +8,8 @@
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I love Travelling!
 
-
-- 📫 How to reach me **vedantsugandhi95@gmail.com**
-
+📫 How to reach me **vedantsugandhi95@gmail.com**
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vedants9" target="blank">
