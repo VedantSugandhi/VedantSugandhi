@@ -9,7 +9,7 @@
 ⚡ Fun fact: I love Travelling!<br>
 📫 How to reach me **vedantsugandhi95@gmail.com**
 <br>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">☕ Get in Touch</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/vedants9" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/vedants9" height="30" width="40" />
@@ -22,8 +22,8 @@
   </a>
 </p>
 <br>
-<h3 align="left">Techstack:</h3>
-<p align="left">
+<h2 align="left">💻 Tech Stack</h2>
+<p align="left"> 
   <b> Languages:</b>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
