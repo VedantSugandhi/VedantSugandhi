@@ -41,6 +41,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <br>
+  <br>
+  <br>
+  <br>
   
   <b>Databases: </b>  
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
