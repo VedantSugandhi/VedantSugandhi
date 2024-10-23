@@ -23,7 +23,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="https://www.kaggle.com/vedantsugandhi" height="30" width="40" />
   </a>
 </p>
-
+<br>
 <h3 align="left">Techstack:</h3>
 <p align="left">
   <b> Languages:</b>
