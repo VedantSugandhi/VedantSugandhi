@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Vedant Sugandhi</h1>
 <h3 align="center">A passionate FullStack developer with 3 years of industry experience in web development.</h3>
 
-🔭 I’m a recent graduate with a Master's in Computer Science from the University of Colorado, Denver, USA.
-👯 I’m looking for Full time Opportunities in Software Engineering or Full Stack Development. 
-🌱 I’m currently learning: React.
-💬 Ask me about Java
-😄 Pronouns: He/Him
+🔭 I’m a recent graduate with a Master's in Computer Science from the University of Colorado, Denver, USA.<br>
+👯 I’m looking for Full time Opportunities in Software Engineering or Full Stack Development.<br>
+🌱 I’m currently learning: React.<br>
+💬 Ask me about Java<br>
+😄 Pronouns: He/Him<br>
 
 
 - 📫 How to reach me **vedantsugandhi95@gmail.com**
@@ -16,7 +16,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/vedants9" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/vedantS95/" target="blank">
-    <img align="center" src="https://commons.wikimedia.org/wiki/File:LeetCode_Logo_black_with_text.svg" alt="https://leetcode.com/u/vedantS95/" height="30" width="40" />
+    <img align="center" src="https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.html" alt="https://leetcode.com/u/vedantS95/" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/vedantsugandhi" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="https://www.kaggle.com/vedantsugandhi" height="30" width="40" />
