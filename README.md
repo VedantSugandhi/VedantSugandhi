@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Vedant Sugandhi</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Vedant</h1>
 <h3 align="center">A passionate FullStack developer with 3 years of industry experience in web development.</h3>
 
 🔭 I’m a recent graduate with a Master's in Computer Science from the University of Colorado, Denver, USA.<br>
