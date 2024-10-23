@@ -16,7 +16,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/vedants9" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/vedantS95/" target="blank">
-    <img align="center" src="https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.html" alt="https://leetcode.com/u/vedantS95/" height="30" width="40" />
+    <img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/leetcode.svg" alt="https://leetcode.com/u/vedantS95/" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/vedantsugandhi" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="https://www.kaggle.com/vedantsugandhi" height="30" width="40" />
