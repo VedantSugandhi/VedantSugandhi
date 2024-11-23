@@ -7,7 +7,7 @@
 💬 Ask me about Java<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I love Travelling!<br>
-📫 How to reach me **vedantsugandhi95@gmail.com**
+📫 How to reach me: **vedantsugandhi95@gmail.com**
 <br>
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
